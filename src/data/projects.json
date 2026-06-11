@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "AI Crop Disease Prediction System",
+      "description": "An AI-powered web platform for instant crop disease prediction and tailored treatment advice.",
+      "image": "src/assets/crop.png",
+      "technologies": ["HTML", "CSS", "ML", "CNN", "Flask"],
+      "github": "https://github.com/P-Ranjani/AI-Crop-Disease-Detection"
+    },
+    {
+      "id": 2,
+      "title": "Simple Music Player",
+      "description": "Built a simple Music Player website using HTML, CSS and JavaScript with features like play, pause and track navigation. Focused on interactive UI and smooth user experience.",
+      "image": "src/assets/music.png",
+      "technologies": ["HTML", "CSS", "JavaScript"],
+      "github": "https://github.com/P-Ranjani/codealpha-tasks/tree/main/codealpha-tasks/Task-4"
+    },
+    {
+      "id": 3,
+      "title": "Text-to-Speech News Reader",
+      "description": "An AI-powered web application that fetches live news headlines and converts text into natural voice output for accessible and hands-free news reading.",
+      "image": "src/assets/news.png",
+      "technologies": ["Python", "NewsAPI"],
+      "github": "https://github.com/P-Ranjani/TTS-News-Reader"
+    }
+  ]
+}

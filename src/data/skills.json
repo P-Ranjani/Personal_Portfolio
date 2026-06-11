@@ -1,0 +1,33 @@
+{
+  "categories": [
+    {
+      "name": "Frontend Development",
+      "skills": [
+        { "name": "HTML", "level": 95 },
+        { "name": "CSS", "level": 93 },
+        { "name": "JavaScript", "level": 90 },
+        { "name": "React.js", "level": 88 }
+      ]
+    },
+    
+    {
+      "name": "Soft Skills",
+      "skills": [
+        { "name": "Communication Skills", "level": 85 },
+        { "name": "Teamwork", "level": 90 },
+        { "name": "Active listening", "level": 90 },
+        { "name": "Patience", "level": 90 },
+        { "name": "Empathy", "level": 90 }
+      ]
+    },
+    {
+      "name": "Tools",
+      "skills": [
+        { "name": "GitHub", "level": 92 },
+        { "name": "VS Code", "level": 95 },
+        { "name": "Chatgpt", "level": 90 },
+        { "name": "Claude", "level": 90 }
+      ]
+    }
+  ]
+}

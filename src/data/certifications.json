@@ -1,0 +1,68 @@
+{
+  "certifications": [
+    {
+      "id": 1,
+      "name": "Software Project Management",
+      "organization": "NPTEL",
+      "date": "April 2024",
+      "credentialUrl": "src/assets/NPTEL-SPM.pdf",
+      "badge": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=200&h=200&fit=crop"
+    },
+    {
+      "id": 2,
+      "name": "Introduction to MERN Stack",
+      "organization": "SimpliLearn",
+      "date": "March 2026",
+      "credentialUrl": "src/assets/Mern-stack.pdf",
+      "badge": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=200&h=200&fit=crop"
+    },
+    {
+      "id": 3,
+      "name": "Tech Talks",
+      "organization": "Coimbatore Institute of Engineering And Technology",
+      "date": "September 2024",
+      "credentialUrl": "src/assets/tech-talks.pdf",
+      "badge": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200&h=200&fit=crop"
+    },
+    {
+      "id": 4,
+      "name": "Poster Presentation",
+      "organization": "Coimbatore Institute of Engineering And Technology",
+      "date": "February 2024",
+      "credentialUrl": "src/assets/poster-pr3esentation.pdf",
+      "badge": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop"
+    },
+    {
+      "id": 5,
+      "name": "Spell Bee",
+      "organization": "WIZ National Spell Bee",
+      "date": "April 2018",
+      "credentialUrl": "src/assets/spell bee.pdf",
+      "badge": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200&h=200&fit=crop"
+    },
+    {
+      "id": 6,
+      "name": "Young Scientist Award",
+      "organization": "A Programme of NCSTC, Govt. of India, New Delhi",
+      "date": "January 2021",
+      "credentialUrl": "src/assets/scientist.pdf",
+      "badge": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200&h=200&fit=crop"
+    },
+    {
+      "id": 7,
+      "name": "S.H.E.CodesAI'26 Hackathon",
+      "organization": "Kasadara Technologies",
+      "date": "March 2025",
+      "credentialUrl": "src/assets/codes.pdf",
+      "badge": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=200&h=200&fit=crop"
+    },
+    {
+      "id": 8,
+      "name": "Technoverse Hackathon",
+      "organization": "Cognizant Technology Solutions",
+      "date": "April 2026",
+      "credentialUrl": "src/assets/cognizant.pdf",
+      "badge": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=200&h=200&fit=crop"
+    }
+  ]
+}

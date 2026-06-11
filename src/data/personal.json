@@ -1,0 +1,28 @@
+{
+  "name": "Ranjani Palanivel",
+  "designation": "Frontend Developer",
+  "tagline": "Building elegant, scalable web experiences",
+  "profileImage": "src/assets/my_photo.jpg",
+  "resumeUrl": "/resume.pdf",
+  "email": "ranjanipalanivel11@gmail.com",
+  "phone": "+91 7397678119",
+  "location": "Coimbatore, Tamil Nadu",
+  "introduction": "Passionate software engineer, fresher, eager in crafting responsive, user-centric web applications. I specialize in React.js and modern JavaScript ecosystems.",
+  "summary": "I am a dedicated frontend developer who thrives on solving complex problems with clean, maintainable code. My journey in software development began during hackathons.",
+  "careerObjective": "To contribute to innovative technology teams where I can leverage my frontend skills to build impactful products, mentor junior developers, and continuously grow as an engineer.",
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/ranjani-p-a8186032a",
+    "github": "https://github.com/P-Ranjani",
+    "medium": "https://medium.com/@ranjanipalanivel11",
+    "email": "mailto:ranjanipalanivel11@gmail.com"
+  },
+  "navLinks": [
+    { "id": "home", "label": "Home" },
+    { "id": "about", "label": "About" },
+    { "id": "skills", "label": "Skills" },
+    { "id": "projects", "label": "Projects" },
+    { "id": "certifications", "label": "Certificates & Achievements" },
+    { "id": "education", "label": "Education" },
+    { "id": "contact", "label": "Contact" }
+  ]
+}
