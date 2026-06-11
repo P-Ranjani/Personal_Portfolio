@@ -1,7 +1,6 @@
 import { motion } from 'framer-motion';
 import { FiDownload, FiMail, FiGithub, FiLinkedin } from 'react-icons/fi';
 import { SiMedium } from 'react-icons/si';
-import profilePhoto from '../../../assets/my_photo.jpg';
 import styles from './Hero.module.css';
 
 const socialIcons = {
@@ -32,7 +31,7 @@ export default function Hero({ personal }) {
         >
           <div className={styles.imageRing}>
             <img
-              src={profilePhoto}
+              src={personal.profileImage}
               alt={`${personal.name} profile`}
               className={styles.profileImage}
               loading="eager"

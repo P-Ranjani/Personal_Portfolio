@@ -5,7 +5,7 @@
       "name": "Software Project Management",
       "organization": "NPTEL",
       "date": "April 2024",
-      "credentialUrl": "src/assets/NPTEL-SPM.pdf",
+      "credentialUrl": "/assets/NPTEL-SPM.pdf",
       "badge": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=200&h=200&fit=crop"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Introduction to MERN Stack",
       "organization": "SimpliLearn",
       "date": "March 2026",
-      "credentialUrl": "src/assets/Mern-stack.pdf",
+      "credentialUrl": "/assets/Mern-stack.pdf",
       "badge": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=200&h=200&fit=crop"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Tech Talks",
       "organization": "Coimbatore Institute of Engineering And Technology",
       "date": "September 2024",
-      "credentialUrl": "src/assets/tech-talks.pdf",
+      "credentialUrl": "/assets/tech-talks.pdf",
       "badge": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200&h=200&fit=crop"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Poster Presentation",
       "organization": "Coimbatore Institute of Engineering And Technology",
       "date": "February 2024",
-      "credentialUrl": "src/assets/poster-pr3esentation.pdf",
+      "credentialUrl": "/assets/poster-presentation.pdf",
       "badge": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Spell Bee",
       "organization": "WIZ National Spell Bee",
       "date": "April 2018",
-      "credentialUrl": "src/assets/spell bee.pdf",
+      "credentialUrl": "/assets/spell%20bee.pdf",
       "badge": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200&h=200&fit=crop"
     },
     {
@@ -45,7 +45,7 @@
       "name": "Young Scientist Award",
       "organization": "A Programme of NCSTC, Govt. of India, New Delhi",
       "date": "January 2021",
-      "credentialUrl": "src/assets/scientist.pdf",
+      "credentialUrl": "/assets/scientist.pdf",
       "badge": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200&h=200&fit=crop"
     },
     {
@@ -53,7 +53,7 @@
       "name": "S.H.E.CodesAI'26 Hackathon",
       "organization": "Kasadara Technologies",
       "date": "March 2025",
-      "credentialUrl": "src/assets/codes.pdf",
+      "credentialUrl": "/assets/codes.pdf",
       "badge": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=200&h=200&fit=crop"
     },
     {
@@ -61,7 +61,7 @@
       "name": "Technoverse Hackathon",
       "organization": "Cognizant Technology Solutions",
       "date": "April 2026",
-      "credentialUrl": "src/assets/cognizant.pdf",
+      "credentialUrl": "/assets/cognizant.pdf",
       "badge": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=200&h=200&fit=crop"
     }
   ]
