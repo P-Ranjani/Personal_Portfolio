@@ -13,7 +13,7 @@
     {
       "name": "Soft Skills",
       "skills": [
-        { "name": "Communication Skills", "level": 85 },
+        { "name": "Communication Skills", "level": 90 },
         { "name": "Teamwork", "level": 90 },
         { "name": "Active listening", "level": 90 },
         { "name": "Patience", "level": 90 },
@@ -23,10 +23,10 @@
     {
       "name": "Tools",
       "skills": [
-        { "name": "GitHub", "level": 92 },
-        { "name": "VS Code", "level": 95 },
-        { "name": "Chatgpt", "level": 90 },
-        { "name": "Claude", "level": 90 }
+        { "name": "GitHub", "level": 93 },
+        { "name": "VS Code", "level": 90 },
+        { "name": "Chatgpt", "level": 95 },
+        { "name": "Claude", "level": 95 }
       ]
     }
   ]

@@ -6,7 +6,7 @@
       "organization": "NPTEL",
       "date": "April 2024",
       "credentialUrl": "/assets/NPTEL-SPM.pdf",
-      "badge": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=200&h=200&fit=crop"
+      "badge": "/assets/spm-1.jpeg"
     },
     {
       "id": 2,
@@ -14,7 +14,7 @@
       "organization": "SimpliLearn",
       "date": "March 2026",
       "credentialUrl": "/assets/Mern-stack.pdf",
-      "badge": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=200&h=200&fit=crop"
+      "badge": "/assets/mern-1.jpeg"
     },
     {
       "id": 3,
@@ -22,7 +22,7 @@
       "organization": "Coimbatore Institute of Engineering And Technology",
       "date": "September 2024",
       "credentialUrl": "/assets/tech-talks.pdf",
-      "badge": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200&h=200&fit=crop"
+      "badge": "/assets/tech-talks-1.jpeg"
     },
     {
       "id": 4,
@@ -30,7 +30,7 @@
       "organization": "Coimbatore Institute of Engineering And Technology",
       "date": "February 2024",
       "credentialUrl": "/assets/poster-presentation.pdf",
-      "badge": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=200&h=200&fit=crop"
+      "badge": "/assets/poster-1.jpeg"
     },
     {
       "id": 5,
@@ -38,7 +38,7 @@
       "organization": "WIZ National Spell Bee",
       "date": "April 2018",
       "credentialUrl": "/assets/spell%20bee.pdf",
-      "badge": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200&h=200&fit=crop"
+      "badge": "/assets/spell-bee-1.jpeg"
     },
     {
       "id": 6,
@@ -46,7 +46,7 @@
       "organization": "A Programme of NCSTC, Govt. of India, New Delhi",
       "date": "January 2021",
       "credentialUrl": "/assets/scientist.pdf",
-      "badge": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=200&h=200&fit=crop"
+      "badge": "/assets/young_1.jpeg"
     },
     {
       "id": 7,
@@ -54,7 +54,7 @@
       "organization": "Kasadara Technologies",
       "date": "March 2025",
       "credentialUrl": "/assets/codes.pdf",
-      "badge": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=200&h=200&fit=crop"
+      "badge": "/assets/codes_1.jpeg"
     },
     {
       "id": 8,
@@ -62,7 +62,7 @@
       "organization": "Cognizant Technology Solutions",
       "date": "April 2026",
       "credentialUrl": "/assets/cognizant.pdf",
-      "badge": "https://images.unsplash.com/photo-1627398242454-45a1465c2479?w=200&h=200&fit=crop"
+      "badge": "/assets/cognizant_1.jpeg"
     }
   ]
 }
