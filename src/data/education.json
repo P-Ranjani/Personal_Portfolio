@@ -3,15 +3,15 @@
     {
       "id": 1,
       "degree": "Bachelor of Engineering in Computer Science",
-      "institution": "Coimbatore Institute of Engineering And Technology",
+      "institution": "Coimbatore Institute of Engineering And Technology, Coimbatore",
       "duration": "2023 – 2027",
-      "grade": "CGPA: 9.48 / 10",
+      "grade": "CGPA: 9.48",
       "description": "Focused on software engineering and web technologies. Active member of the Coding Club and Hackathon team."
     },
     {
       "id": 2,
       "degree": "Higher Secondary Education",
-      "institution": "Bharathiyar Matric Hr Sec School",
+      "institution": "Bharathiyar Matric Hr Sec School, Salem",
       "duration": "2021 – 2023",
       "grade": "Percentage: 96%",
       "description": "Completed with distinction in Physics, Chemistry, Mathematics, and Biology."
